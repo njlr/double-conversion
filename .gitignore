@@ -7,3 +7,8 @@ msvc/Debug/
 *.opensdf
 *.sdf
 *.user
+/buck-out/
+/.buckd/
+/buckaroo/
+.buckconfig.local
+BUCKAROO_DEPS
